@@ -11,3 +11,7 @@ From lesson 00 to 05.
 ### Better Calculatior
 
 From lesson 05 to 09.
+
+### Guess Game
+
+From lesson 10 to 11.
